@@ -1,0 +1,194 @@
+img {
+   width: 400px;
+  height: 400px;
+}
+
+.headertext1 {
+  position: absolute;
+  top: 325px;
+  left: 50px;
+}
+
+.headertext2 {
+  font-size: 60px;
+    position: absolute;
+  top: 325px;
+  left: 50px;
+}
+
+.text1 {
+  
+  width: 400px;
+  height: 400px;
+  margin: 20px;
+  font-size: 20px;
+}
+
+.bq1::before {
+  content: '”'; 
+}
+
+.bq1 {
+  
+  font-size: 70px;
+  background-color: gray;
+  color: white;
+  border: solid, 20px, gray;
+}
+
+.text2 {
+     width: 400px;
+  height: 700px;
+  margin: 20px;
+  font-size: 20px;
+}
+
+.bq2::before {
+  content: '”'; 
+}
+
+.bq2 {
+  font-size: 70px;
+  background-color: gray;
+  color: white;
+  border: solid, 20px, gray;
+}
+
+.text3 {
+    width: 400px;
+  height: 650px;
+  margin: 20px;
+  font-size: 20px;
+}
+
+.bq3::before {
+  content: '”'; 
+}
+
+.bq3 {
+ font-size: 70px;
+  background-color: gray;
+  color: white;
+  border: solid, 20px, gray;
+}
+
+.text4 {
+   width: 400px;
+  height: 650px;
+  margin: 20px;
+  font-size: 20px;
+  
+}
+
+.text5 {
+  margin-right: 200px;
+  margin-left: 200px;
+}
+
+.header {
+  font-family: 'Abril Fatface', cursive;
+}
+
+blockquote {
+  font-family: 'Abril Fatface', cursive;
+}
+
+p {
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+.header2 {
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+.header3{
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+li {
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+.subtitle {
+  font-family: 'Merriweather', serif;
+}
+
+.body {
+  width: 900px;
+  margin-top: 110px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.quote1 {
+  width: 400px;
+  height: 600px;
+  background-color: gray;
+}
+
+.quote2 {
+  width: 400px;
+  height: 500px;
+   background-color: gray;
+}
+
+.quote3 {
+   width: 400px;
+  height: 850px;
+   background-color: gray;
+}
+
+.buttons {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  height: 100px;
+  padding: 0px;
+  margin: 0px;
+  padding-left: 50px;
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  
+}
+
+.item1 {
+  margin: 20px;
+  height: 60px;
+  width: 150px;
+  color: white;
+  background-color: black;
+  font-size: 25px;
+  border: none;
+}
+  
+.item2 {
+  margin: 20px;
+  height: 60px;
+  width: 150px;
+  color: white;
+  background-color: black;
+  font-size: 25px;
+  border: none;
+}
+
+.item3 {
+  margin: 20px;
+  height: 60px;
+  width: 150px;
+  color: white;
+  background-color: black;
+  font-size: 25px;
+  border: none;
+}
+
+.item4 {
+  margin: 20px;
+  height: 60px;
+  width: 150px;
+  color: white;
+  background-color: black;
+  font-size: 25px;
+  border: none;
+}
